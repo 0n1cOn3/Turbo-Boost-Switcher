@@ -67,8 +67,8 @@
 // Charting
 "lblTemperature" = "Temperatur";
 "lblFanSpeed" = "Lüftergeschwindigkeit";
-"lblTbEnabled" = "Turbo Boost aktiviert";
-"lblTbDisabled" = "Turbo Boost deaktiviert";
+"lblTbEnabled" = "TB aktiv";
+"lblTbDisabled" = "TB Inaktiv";
 "menuCharting" = "Grafische Anzeige";
 "titCharting" = "Übersicht";
 
