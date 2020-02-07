@@ -14,8 +14,8 @@
 "open_login" = "Beim Einloggen öffnen";
 "disable_login" = "Beim Systemstart deaktivieren";
 "settings" = "Einstellungen:";
-"donate" = "Spenden...";
-"about" = "Über...";
+"donate" = "Spenden";
+"about" = "Über Turbo Booste Switcher";
 "about_title" = "Über";
 "quit" = "Turbo Boost Switcher beenden";
 "updates" = "Auf Updates prüfen...";
